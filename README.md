@@ -15,7 +15,7 @@ The goal of this project is to gain insights into Adidas's sales performance, an
 2. **Cleaned Data** (`cleaned_sales_data.csv`):
    - Preprocessed and cleaned dataset for use in visualizations and modeling.
 
-3. **Power BI Dashboard** (`Screenshot 2025-01-01 105424.png`):
+3. **Power BI Dashboard** :
    - Interactive visualizations for trends, costs, sales performance, and forecasting.
 
 ## **Key Features**
