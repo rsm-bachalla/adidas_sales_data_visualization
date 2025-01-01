@@ -25,13 +25,14 @@ The goal of this project is to gain insights into Adidas's sales performance, an
 - **Forecasting Model:** Predictive analysis for future sales trends.
 - **Hierarchical Drill-Down:** Sales performance analysis based on product type, region, and sales method.
 
-## **Technologies Used**
-- **Python**: Pandas for data analysis and visualization.
-- **Power BI**: Interactive dashboard creation and data modeling.
-  
-## Dashboard Screenshot
-![Dashboard Preview](https://github.com/rsm-bachalla/adidas_sales_data_visualization/blob/main/Screenshot%202025-01-01%20124744.png?raw=true)
+## **Forecasting and Analytical Techniques**
+Forecasting was performed using the Analytics feature in Power BI, enabling trendline visualizations and predictive insights. The predictive models leverage historical data trends to project future sales performance.
 
+**Key techniques used:**
+
+-**Time Series Forecasting:** Applied built-in forecasting tools in Power BI to analyze trends and predict future sales growth.
+
+-**What-If Parameters:** Simulated scenarios based on pricing and promotional strategies to optimize profitability.
 
 ## **Usage**
 1. **Python Analysis**:
@@ -44,7 +45,14 @@ The goal of this project is to gain insights into Adidas's sales performance, an
 
 3. **Forecasting**:
    - Observe trends and make data-driven decisions based on predicted sales performance.
+  
+## Dashboard Screenshot
+![Dashboard Preview](https://github.com/rsm-bachalla/adidas_sales_data_visualization/blob/main/Screenshot%202025-01-01%20124744.png?raw=true)
 
+## **Technologies Used**
+- **Python**: Pandas for data analysis and visualization.
+- **Power BI**: Interactive dashboard creation and data modeling.
+  
 ## **Acknowledgments**
 The data was sourced from Kaggle.
 
