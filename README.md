@@ -19,32 +19,35 @@ The goal of this project is to gain insights into Adidas's sales performance, an
    - Interactive visualizations for trends, costs, sales performance, and forecasting.
 
 ## **Key Features**
+Forecasting was performed using the Analytics feature in Power BI, enabling trendline visualizations and predictive insights. The predictive models leverage historical data trends to project future sales performance.
 - **Trend Analysis:** Visualizations of revenue, cost, and profit trends over time.
 - **Geographical Insights:** Sales performance by city and region.
 - **Sales Methods Analysis:** Breakdown of units sold through different channels.
 - **Forecasting Model:** Predictive analysis for future sales trends.
 - **Hierarchical Drill-Down:** Sales performance analysis based on product type, region, and sales method.
+- **Time Series Forecasting:** Applied built-in forecasting tools in Power BI to analyze trends and predict future sales growth.
 
-## **Forecasting and Analytical Techniques**
-Forecasting was performed using the Analytics feature in Power BI, enabling trendline visualizations and predictive insights. The predictive models leverage historical data trends to project future sales performance.
 
-**Key techniques used:**
+## **Key Findings**  
 
--**Time Series Forecasting:** Applied built-in forecasting tools in Power BI to analyze trends and predict future sales growth.
+1. **Revenue, Cost, and Profit Trends:**  
+   - Revenue and profit showed a sharp increase starting in 2021, indicating strong sales growth and improved profitability.  
 
--**What-If Parameters:** Simulated scenarios based on pricing and promotional strategies to optimize profitability.
+2. **City-wise Cost Analysis:**  
+   - New York and Charleston reported the highest costs, highlighting them as focus areas for cost management strategies.  
 
-## **Usage**
-1. **Python Analysis**:
-   - Run the Python notebook to explore and clean data.
-   - Export the transformed data for dashboard visualization.
+3. **Sales by Region:**  
+   - The West region led in total sales, outperforming other regions such as the Northeast and Southeast.  
 
-2. **Power BI Dashboard**:
-   - Analyze trends and insights interactively.
-   - Use slicers to filter by product, region, and sales methods.
+4. **Sales Method Analysis:**  
+   - In-store purchases contributed the highest sales volume (37.93%), followed by online and outlet methods, showcasing the importance of physical store presence.  
 
-3. **Forecasting**:
-   - Observe trends and make data-driven decisions based on predicted sales performance.
+5. **Forecasting Insights:**  
+   - Predictive analysis suggests continued growth in sales, indicating opportunities for expansion and sustained revenue growth.  
+
+6. **Customer Segmentation:**  
+   - Men's athletic footwear emerged as a top-performing product category, particularly in the West region, emphasizing the need for targeted marketing strategies in this segment.  
+
   
 ## Dashboard Screenshot
 ![Dashboard Preview](https://github.com/rsm-bachalla/adidas_sales_data_visualization/blob/main/Screenshot%202025-01-01%20125359.png?raw=true)
