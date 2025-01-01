@@ -47,7 +47,7 @@ Forecasting was performed using the Analytics feature in Power BI, enabling tren
    - Observe trends and make data-driven decisions based on predicted sales performance.
   
 ## Dashboard Screenshot
-![Dashboard Preview](https://github.com/rsm-bachalla/adidas_sales_data_visualization/blob/main/Screenshot%202025-01-01%20124744.png?raw=true)
+![Dashboard Preview](https://github.com/rsm-bachalla/adidas_sales_data_visualization/blob/main/Screenshot%202025-01-01%20125359.png?raw=true)
 
 ## **Technologies Used**
 - **Python**: Pandas for data analysis and visualization.
