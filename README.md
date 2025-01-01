@@ -28,6 +28,9 @@ The goal of this project is to gain insights into Adidas's sales performance, an
 ## **Technologies Used**
 - **Python**: Pandas for data analysis and visualization.
 - **Power BI**: Interactive dashboard creation and data modeling.
+  
+## Dashboard Screenshot
+![Dashboard Preview](https://github.com/rsm-bachalla/adidas_sales_data_visualization/blob/main/Screenshot%202025-01-01%20105424.png?raw=true)
 
 
 ## **Usage**
